@@ -1,0 +1,47 @@
+{
+    "trending": {
+        "enabled": true,
+        "title": "Trending Now",
+        "items": [
+            {
+                "title": "Inception",
+                "tmdbId": 27205,
+                "mediaType": "movie"
+            },
+            {
+                "title": "Breaking Bad",
+                "tmdbId": 1396,
+                "mediaType": "tv"
+            },
+            {
+                "title": "The Dark Knight",
+                "tmdbId": 155,
+                "mediaType": "movie"
+            },
+            {
+                "title": "Interstellar",
+                "tmdbId": 157336,
+                "mediaType": "movie"
+            },
+            {
+                "title": "Stranger Things",
+                "tmdbId": 66732,
+                "mediaType": "tv"
+            },
+            {
+                "title": "FRIENDS",
+                "tmdbId": 1668,
+                "mediaType": "tv"
+            }
+        ]
+    },
+    "announcement": {
+        "enabled": true,
+        "id": "promo-2026-01", 
+        "text": "",
+        "link": "https://github.com/MHThe1/FTP-server-media-streaming-DFLIX-Electron-App",
+        "color": "#ff0000",
+        "imageUrl": "/banners/open-source.png",
+        "videoUrl": "" 
+    }
+}
