@@ -36,7 +36,7 @@
         ]
     },
     "announcement": {
-        "enabled": true,
+        "enabled": false,
         "id": "promo-2026-01", 
         "text": "",
         "link": "https://github.com/MHThe1/FTP-server-media-streaming-DFLIX-Electron-App",
